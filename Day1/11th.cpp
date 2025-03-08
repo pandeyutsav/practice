@@ -1,6 +1,5 @@
 #include <bits/stdc++.h>
 using namespace std;
-
 int product(vector<int>&arr,int s,int e)
 {
     int prod=1;
@@ -13,7 +12,7 @@ int main()
     int n;
     cout << "Enter array size: ";
     cin >> n;
-    
+
     vector<int> arr(n);
     for(int i = 0; i < n; i++)
         cin >> arr[i];

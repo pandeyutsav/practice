@@ -1,11 +1,5 @@
 Rotate array by K elements : Block Swap Algorithm
 
-
-82
-
-11
-In this article we will learn a very popular algorithm for "Rotate array by K elements : Block Swap Algorithm".
-
 Problem Statement: Given an array of n size, rotate the array by k elements using the Block Swap Algorithm.
 
 Examples:

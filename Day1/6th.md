@@ -1,9 +1,4 @@
 Remove Duplicates From an Unsorted Array
-
-
-41
-
-2
 Problem Statement: Given an unsorted array, remove duplicates from the array.
 
 Examples:

@@ -24,14 +24,14 @@ int main()
         mx = max(mx, arr[i]);
         mn = min(mn, arr[i]);
     }
-
+// 20 15 26 2 98 6 
     // Finding second max and second min
     for(int i = 0; i < n; i++) {
-        if(arr[i] < mx && arr[i] > smx)
-            smx = arr[i];
+        if(arr[i] != mx )
+            smx = max(smx,arr[i]);
 
-        if(arr[i] > mn && arr[i] < smn)
-            smn = arr[i];
+        if(arr[i] != mn)
+            smn = min(smn,arr[i]);
     }
 
     // Handling cases where second max/min doesn't exist

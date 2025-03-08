@@ -46,7 +46,7 @@ int main()
     for(int i = 0; i < n; i++)
         cin >> arr[i];
 
-    vector<int> mark(n, 1); // Correctly initialize all values to 1
+    vector<int> mark(n,1); //initialize all values to 1
 
     for (int i = 0; i < n; i++) {
         if (mark[i] == 1) {

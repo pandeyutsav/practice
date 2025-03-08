@@ -1,12 +1,4 @@
-Find all repeating elements in an array
-
-
-40
-
-4
 Problem Statement: Find all the repeating elements present in an array.
-
-Examples:
 
 Example 1:
 Input: 

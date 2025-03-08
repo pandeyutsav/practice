@@ -1,12 +1,4 @@
-Rearrange array in increasing-decreasing order
-
-
-102
-
-3
 Problem Statement: Rearrange the array such that the first half is arranged in increasing order, and the second half is arranged in decreasing order
-
-Examples:
 
 Example 1:
 Input: 8 7 1 6 5 9

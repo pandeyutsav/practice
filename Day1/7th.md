@@ -1,9 +1,4 @@
 Adding Element in an Array
-
-
-40
-
-2
 Problem Statement: Given an array of N integers, write a program to add an array element at the beginning, end, and at a specific position.
 
 Example:

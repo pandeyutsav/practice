@@ -18,7 +18,4 @@ int main()
        
     //handling last element of the array
     if(nums[nums.size()-2] != nums[nums.size()-1]) cout<<nums[nums.size()-1];
-
-
-    
 }
